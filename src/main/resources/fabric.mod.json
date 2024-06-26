@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "new-universe",
+	"version": "${version}",
+	"name": "New Universe",
+	"description": "This mod is an extensive tech mod.",
+	"authors": [
+		"TheNoShoePrince"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/new-universe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.thenoshoeprince.newuniverse.NewUniverse"
+		],
+		"client": [
+			"net.thenoshoeprince.newuniverse.NewUniverseClient"
+		],
+		"fabric-datagen": [
+			"net.thenoshoeprince.newuniverse.NewUniverseDataGenerator"
+		]
+	},
+	"mixins": [
+		"new-universe.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
