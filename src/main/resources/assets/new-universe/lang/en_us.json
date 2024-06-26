@@ -1,3 +1,11 @@
 {
-  "item.new-universe.copper-sheet": "Copper Sheet"
+  "item.new-universe.copper-sheet": "Copper Sheet",
+  "item.new-universe.copper-wire": "Copper Wire",
+
+  "item.new-universe.raw-aluminium": "Raw Aluminium",
+  "item.new-universe.aluminium-ingot": "Aluminium Ingot",
+  "block.new-universe.aluminium_block": "Block of Aluminium",
+  "block.new-universe.aluminium_ore": "Aluminium Ore",
+
+  "itemgroup.modpack": "New Universe"
 }

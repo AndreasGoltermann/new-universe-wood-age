@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "aluminium-ingot",
+  "ingredient": {
+    "item": "new-universe:raw-aluminium"
+  },
+  "result": {
+    "id": "new-universe:aluminium-ingot"
+  }
+}

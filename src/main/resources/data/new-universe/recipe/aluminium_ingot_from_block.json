@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "new-universe:aluminium_block"
+    }
+  ],
+  "result": {
+    "id": "new-universe:aluminium-ingot",
+    "count": 9
+  }
+}

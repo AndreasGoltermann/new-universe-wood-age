@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "new-universe:aluminium-ingot"
+    }
+  },
+  "result": {
+    "id": "new-universe:aluminium_block"
+  }
+}
